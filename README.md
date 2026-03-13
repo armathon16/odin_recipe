@@ -1,0 +1,1 @@
+Welcome to my first project, this will be the simple HTML and CSS project which will act as an showcase of my new learned skills. It will consist of simple recipes for the nice african dish, whis is prepaed with love and affection. We thank  the Odin Project for the opportunity to fill the gap which is in Africa in tech industry.
